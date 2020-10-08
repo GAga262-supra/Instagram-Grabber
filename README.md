@@ -1,6 +1,6 @@
 # Instagram Profile Grabber
 You can easily clone this using git clone commands 
-Maker :Midhun Mathew
+maker :Midhun Mathew
 Language :bash
 *************************
 This has been succesfully tested in Termux (android) and all other linux operating system.
