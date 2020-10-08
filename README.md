@@ -1,7 +1,9 @@
-# Calculator
-A simple java calculator you can easily clone this 
+# Instagram Profile Grabber
+You can easily clone this using git clone commands 
 Maker :Midhun Mathew
-Language :Java
+Language :bash
 *************************
-You can use operands such as addiction ,substaction ,multiplication and division.The program is simple and easy to use .
-Make sure to put the operands in between single inverted commas
+This has been succesfully tested in Termux (android) and all other linux operating system.
+Using this you can easily watch one's instgram profile providing with more details which in normal can't be watched.
+
+Usuage :python3 main.py -u username
