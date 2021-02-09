@@ -4,7 +4,7 @@ import os, sys
 sys.path.append(os.getcwd()+"/.lib/")
 import argparse
 from api import *
-
+array main
 ap = argparse.ArgumentParser()
 ap.add_argument("-u", "--username", required=True, help="username of account to scan")
 ap.add_argument("-p", "--postscrap", action='store_true', help="scrape all uploaded images info ")
